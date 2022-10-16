@@ -1,0 +1,7 @@
+/node_modules/
+.env
+# Next.js build dir
+.next
+
+# Keystone build dir
+.keystone
